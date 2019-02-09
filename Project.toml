@@ -1,0 +1,8 @@
+name = "Hydrozoa"
+uuid = "0063ccd4-2c1b-11e9-3f5e-f71f5480b0fc"
+authors = ["Valentin Churavy <v.churavy@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDAnative = "be33ccc6-a3ff-5ff2-a52e-74243cff1e17"
+LLVM = "929cbde3-209d-540e-8aea-75f648917ca0"
