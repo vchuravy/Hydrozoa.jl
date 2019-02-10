@@ -25,18 +25,17 @@ NVIDIA.
 ## Low-level host interface
 
 - `libmp`
-  - [ ] `mp_init`
-  - [ ] `mp_finalize`
-  - [ ] `mp_request_t`
-  - [ ] `mp_reg_t`
-  - [ ] `mp_register`
-  - [ ] `mp_send_prepare`
-  - [ ] `mp_irecv`
+  - [x] `mp_init`
+  - [x] `mp_finalize`
+  - [x] `mp_request_t`
+  - [x] `mp_reg_t`
+  - [x] `mp_register`
+  - [x] `mp_send_prepare`
+  - [x] `mp_irecv`
   - [ ] `mp::mlx5::get_descriptors`
-  - [ ] `mp_wait_all`
-  - [ ] `mp_deregister`
+  - [x] `mp_wait_all`
+  - [x] `mp_deregister`
 
 ## High-level interface
 
 - [ ] Implement `all_gather`
-
